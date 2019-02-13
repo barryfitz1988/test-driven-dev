@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43a2d925-4cc5-42b9-8132-58fdd01df14d" name="Default Changelist" comment="" />
+    <list default="true" id="43a2d925-4cc5-42b9-8132-58fdd01df14d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/katas/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/katas/LeapYearTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/katas/Greeter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/katas/GreeterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/katas/PasswordTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/katas/PasswordTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.katas.PasswordTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.katas.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.katas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.katas.PasswordTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/katas/PasswordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/katas/PasswordTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -27,24 +51,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/katas/Password.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/katas/LeapYear.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+            <state relative-caret-position="384">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
-                <element signature="e#117#118#0" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
+                <element signature="e#129#130#0" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/katas/PasswordTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/katas/LeapYearTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-143">
-              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+            <state relative-caret-position="374">
+              <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,13 +85,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/com/katas/GreeterTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/katas/Password.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/katas/PasswordTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/katas/Password.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/katas/LeapYear.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/katas/LeapYearTest.java" />
       </list>
     </option>
   </component>
@@ -80,6 +109,7 @@
     <option name="width" value="2420" />
     <option name="height" value="1320" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -150,7 +180,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550066784333" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550075385219" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -172,13 +202,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.PasswordTest">
+  <component name="RunManager" selected="Gradle.LeapYearTest">
     <configuration name="GreeterTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" value="--tests com.katas.GreeterTest" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="LeapYearTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests com.katas.LeapYearTest" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -272,9 +322,11 @@
       <item itemvalue="Gradle.PasswordTest" />
       <item itemvalue="Gradle.PasswordTest.test_that_password_has_has_a_number_fails" />
       <item itemvalue="Gradle.PasswordTest.test_that_the_password_is_valid" />
+      <item itemvalue="Gradle.LeapYearTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.LeapYearTest" />
         <item itemvalue="Gradle.PasswordTest" />
         <item itemvalue="Gradle.PasswordTest.test_that_the_password_is_valid" />
         <item itemvalue="Gradle.PasswordTest.test_that_password_has_has_a_number_fails" />
@@ -294,44 +346,44 @@
       <updated>1549989061190</updated>
       <workItem from="1549989064721" duration="145000" />
       <workItem from="1549989649936" duration="735000" />
-      <workItem from="1550049270444" duration="8918000" />
+      <workItem from="1550049270444" duration="17180000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PasswordTest - 2019.02.13 at 10h 51m 37s.xml">
-      <configuration name="PasswordTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="LeapYearTest - 2019.02.13 at 16h 25m 02s.xml">
+      <configuration name="LeapYearTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="PasswordTest - 2019.02.13 at 10h 53m 30s.xml">
-      <configuration name="PasswordTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="LeapYearTest - 2019.02.13 at 16h 25m 43s.xml">
+      <configuration name="LeapYearTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="PasswordTest - 2019.02.13 at 10h 53m 41s.xml">
-      <configuration name="PasswordTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="LeapYearTest - 2019.02.13 at 16h 25m 51s.xml">
+      <configuration name="LeapYearTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="PasswordTest - 2019.02.13 at 12h 12m 27s.xml">
-      <configuration name="PasswordTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="LeapYearTest - 2019.02.13 at 16h 25m 57s.xml">
+      <configuration name="LeapYearTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="PasswordTest - 2019.02.13 at 12h 12m 40s.xml">
-      <configuration name="PasswordTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="LeapYearTest - 2019.02.13 at 16h 26m 03s.xml">
+      <configuration name="LeapYearTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="PasswordTest - 2019.02.13 at 12h 14m 28s.xml">
-      <configuration name="PasswordTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="LeapYearTest - 2019.02.13 at 16h 26m 15s.xml">
+      <configuration name="LeapYearTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="PasswordTest - 2019.02.13 at 13h 55m 27s.xml">
-      <configuration name="PasswordTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="LeapYearTest - 2019.02.13 at 16h 27m 23s.xml">
+      <configuration name="LeapYearTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="PasswordTest - 2019.02.13 at 13h 56m 00s.xml">
-      <configuration name="PasswordTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="LeapYearTest - 2019.02.13 at 16h 29m 00s.xml">
+      <configuration name="LeapYearTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="PasswordTest - 2019.02.13 at 13h 56m 19s.xml">
-      <configuration name="PasswordTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="LeapYearTest - 2019.02.13 at 16h 29m 22s.xml">
+      <configuration name="LeapYearTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="PasswordTest - 2019.02.13 at 14h 02m 28s.xml">
-      <configuration name="PasswordTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="LeapYearTest - 2019.02.13 at 16h 29m 37s.xml">
+      <configuration name="LeapYearTest" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9798000" />
+    <option name="totallyTimeSpent" value="18060000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -346,15 +398,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49946696" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946696" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50159913" side_tool="true" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49946696" weight="0.32936078" />
@@ -408,23 +460,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/katas/Password.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/katas/PasswordTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-143">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        <state relative-caret-position="850">
+          <caret line="83" column="34" selection-start-line="83" selection-start-column="34" selection-end-line="83" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/katas/Password.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/katas/LeapYear.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+        <state relative-caret-position="384">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/katas/LeapYearTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

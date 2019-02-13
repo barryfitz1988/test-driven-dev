@@ -41,7 +41,7 @@ public class PasswordTest {
     public void test_that_password_has_has_no_capital_fails() {
 
         // Arrange
-        this.test = "TESTTEST";
+        this.test = "ttttttttttt";
 
         // Act
         boolean newPassword = this.password.valid_password(this.test);
@@ -68,7 +68,7 @@ public class PasswordTest {
     public void test_that_password_has_a_number_fails() {
 
         // Arrange
-        this.test = "T";
+        this.test = "Tttttttttttt";
 
         // Act
         boolean newPassword = this.password.valid_password(this.test);
@@ -81,7 +81,7 @@ public class PasswordTest {
     public void test_that_password_has_an_underscore_fails() {
 
         // Arrange
-        this.test = "T";
+        this.test = "Tttttttttttt1";
 
         // Act
         boolean newPassword = this.password.valid_password(this.test);
