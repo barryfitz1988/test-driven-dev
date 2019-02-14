@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43a2d925-4cc5-42b9-8132-58fdd01df14d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/katas/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/katas/LeapYearTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/katas/Bowling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/katas/RPS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/katas/BowlingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/katas/RPSTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/resourceHashesCache.bin" afterDir="false" />
@@ -16,15 +17,11 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/katas/Greeter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/katas/GreeterTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/katas/PasswordTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/katas/PasswordTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.katas.PasswordTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.katas.LeapYearTest.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.katas.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.katas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.katas.PasswordTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.katas.LeapYearTest.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/katas/PasswordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/katas/PasswordTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -43,32 +40,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/katas/RPS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            <state relative-caret-position="17">
+              <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/katas/LeapYear.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/katas/Password.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="170">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
               <folding>
-                <element signature="e#129#130#0" expanded="true" />
-                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#117#118#0" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/katas/LeapYearTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/katas/RPSTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+            <state relative-caret-position="146">
+              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,6 +94,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/katas/Password.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/katas/LeapYear.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/katas/LeapYearTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/katas/Bowling.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/katas/BowlingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/katas/RPS.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/katas/RPSTest.java" />
       </list>
     </option>
   </component>
@@ -115,7 +116,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,16 +175,17 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550075385219" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550161642829" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -202,13 +204,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.LeapYearTest">
-    <configuration name="GreeterTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.RPSTest">
+    <configuration name="BowlingTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests com.katas.GreeterTest" />
+        <option name="scriptParameters" value="--tests com.katas.BowlingTest" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="BowlingTest.test_that_the_bowling_game_is_valid" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.katas.BowlingTest.test_that_the_bowling_game_is_valid&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -263,32 +285,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="PasswordTest.test_that_password_has_has_a_number_fails" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="RPSTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.katas.PasswordTest.test_that_password_has_has_a_number_fails&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="PasswordTest.test_that_the_password_is_valid" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.katas.PasswordTest.test_that_the_password_is_valid&quot;" />
+        <option name="scriptParameters" value="--tests com.katas.RPSTest" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -317,20 +319,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Gradle.GreeterTest" />
-      <item itemvalue="JUnit.Test" />
       <item itemvalue="Gradle.PasswordTest" />
-      <item itemvalue="Gradle.PasswordTest.test_that_password_has_has_a_number_fails" />
-      <item itemvalue="Gradle.PasswordTest.test_that_the_password_is_valid" />
       <item itemvalue="Gradle.LeapYearTest" />
+      <item itemvalue="JUnit.Test" />
+      <item itemvalue="Gradle.BowlingTest" />
+      <item itemvalue="Gradle.BowlingTest.test_that_the_bowling_game_is_valid" />
+      <item itemvalue="Gradle.RPSTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.RPSTest" />
+        <item itemvalue="Gradle.BowlingTest" />
+        <item itemvalue="Gradle.BowlingTest.test_that_the_bowling_game_is_valid" />
         <item itemvalue="Gradle.LeapYearTest" />
         <item itemvalue="Gradle.PasswordTest" />
-        <item itemvalue="Gradle.PasswordTest.test_that_the_password_is_valid" />
-        <item itemvalue="Gradle.PasswordTest.test_that_password_has_has_a_number_fails" />
-        <item itemvalue="Gradle.GreeterTest" />
       </list>
     </recent_temporary>
   </component>
@@ -346,50 +348,51 @@
       <updated>1549989061190</updated>
       <workItem from="1549989064721" duration="145000" />
       <workItem from="1549989649936" duration="735000" />
-      <workItem from="1550049270444" duration="17180000" />
+      <workItem from="1550049270444" duration="18030000" />
+      <workItem from="1550133174984" duration="17856000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LeapYearTest - 2019.02.13 at 16h 25m 02s.xml">
-      <configuration name="LeapYearTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="RPSTest - 2019.02.14 at 16h 13m 23s.xml">
+      <configuration name="RPSTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="LeapYearTest - 2019.02.13 at 16h 25m 43s.xml">
-      <configuration name="LeapYearTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="RPSTest - 2019.02.14 at 16h 13m 56s.xml">
+      <configuration name="RPSTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="LeapYearTest - 2019.02.13 at 16h 25m 51s.xml">
-      <configuration name="LeapYearTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="RPSTest - 2019.02.14 at 16h 15m 50s.xml">
+      <configuration name="RPSTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="LeapYearTest - 2019.02.13 at 16h 25m 57s.xml">
-      <configuration name="LeapYearTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="RPSTest - 2019.02.14 at 16h 18m 44s.xml">
+      <configuration name="RPSTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="LeapYearTest - 2019.02.13 at 16h 26m 03s.xml">
-      <configuration name="LeapYearTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="RPSTest - 2019.02.14 at 16h 20m 22s.xml">
+      <configuration name="RPSTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="LeapYearTest - 2019.02.13 at 16h 26m 15s.xml">
-      <configuration name="LeapYearTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="RPSTest - 2019.02.14 at 16h 20m 57s.xml">
+      <configuration name="RPSTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="LeapYearTest - 2019.02.13 at 16h 27m 23s.xml">
-      <configuration name="LeapYearTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="RPSTest - 2019.02.14 at 16h 21m 17s.xml">
+      <configuration name="RPSTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="LeapYearTest - 2019.02.13 at 16h 29m 00s.xml">
-      <configuration name="LeapYearTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="RPSTest - 2019.02.14 at 16h 22m 46s.xml">
+      <configuration name="RPSTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="LeapYearTest - 2019.02.13 at 16h 29m 22s.xml">
-      <configuration name="LeapYearTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="RPSTest - 2019.02.14 at 16h 26m 00s.xml">
+      <configuration name="RPSTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="LeapYearTest - 2019.02.13 at 16h 29m 37s.xml">
-      <configuration name="LeapYearTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="RPSTest - 2019.02.14 at 16h 27m 03s.xml">
+      <configuration name="RPSTest" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18060000" />
+    <option name="totallyTimeSpent" value="36766000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -398,15 +401,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49733475" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49946696" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4989339" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50159913" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5026652" side_tool="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49946696" weight="0.32936078" />
@@ -421,35 +424,56 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49733475" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4989339" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5026652" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build/reports/tests/test/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2431">
-          <caret line="143" column="7" selection-start-line="143" selection-start-column="7" selection-end-line="143" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/katas/GreeterTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/katas/GreeterTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/katas/Greeter.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/katas/LeapYearTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="15" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="15" />
+        <state relative-caret-position="136">
+          <caret line="11" selection-start-line="8" selection-end-line="23" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/katas/Greeter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -460,21 +484,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/katas/Password.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/katas/Bowling.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="435">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/katas/PasswordTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/katas/BowlingTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="83" column="34" selection-start-line="83" selection-start-column="34" selection-end-line="83" selection-end-column="34" />
+        <state relative-caret-position="204">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -483,19 +503,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/katas/LeapYear.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="170">
+          <caret line="13" selection-start-line="13" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/katas/PasswordTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="23" selection-end-column="5" />
           <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/katas/LeapYearTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/katas/Password.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+        <state relative-caret-position="170">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/reports/tests/test/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/katas/RPS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/katas/RPSTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

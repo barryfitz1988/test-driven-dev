@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.katas.RPSTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-02-14T16:28:08" hostname="IRCSFITZGB2L1C" time="0.059">
+  <properties/>
+  <testcase name="test_scissors_beats_paper" classname="com.katas.RPSTest" time="0.058"/>
+  <testcase name="test_rock_beats_scissors" classname="com.katas.RPSTest" time="0.001"/>
+  <testcase name="test_paper_beats_rock" classname="com.katas.RPSTest" time="0.0"/>
+  <testcase name="test_draw_game" classname="com.katas.RPSTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
